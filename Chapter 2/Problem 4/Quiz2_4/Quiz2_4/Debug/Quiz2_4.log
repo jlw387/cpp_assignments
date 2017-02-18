@@ -1,0 +1,4 @@
+﻿  Quiz2_4.cpp
+c:\users\john\documents\visual studio 2015\projects\quiz2_4\quiz2_4\quiz2_4.cpp(27): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Quiz2_4.vcxproj -> c:\users\john\documents\visual studio 2015\Projects\Quiz2_4\Debug\Quiz2_4.exe
+  Quiz2_4.vcxproj -> c:\users\john\documents\visual studio 2015\Projects\Quiz2_4\Debug\Quiz2_4.pdb (Full PDB)
