@@ -1,0 +1,9 @@
+1) Symbolic constants are much better to use than “magic number” 
+   literals because changing the value of the symbolic constant 
+   will change the value for all uses of the constant whereas if 
+   a “magic number” were used in place of the constant, each use
+   of the “magic number” would need to be altered individually to
+   make a change. Furthermore it allows the programmer to name
+   the constant based on its intended use to clarify the program.
+   Symbolic constants are better than #define constants because
+   they require much less effort to debug.

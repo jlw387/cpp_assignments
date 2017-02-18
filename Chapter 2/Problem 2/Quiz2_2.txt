@@ -1,0 +1,8 @@
+2) a.	uint8_t
+   b.	bool
+   c.	const double
+   d.	uint16_t
+   e.	float
+   f.	long or long long
+   g.	char
+   h.	uint16_t
