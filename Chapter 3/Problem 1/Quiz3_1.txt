@@ -1,0 +1,4 @@
+1) a) (5 > 3 && 4 < 8) evaluates to true
+   b) (4 > 6 && true) evaluates to false
+   c) (3 >= 3 || false) evaluates to true
+   d) (true || false) ? 4 : 5 evaluates to 4

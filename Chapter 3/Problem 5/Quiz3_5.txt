@@ -1,0 +1,10 @@
+5 a) The program will run differently depeding on which order
+     the compiler evaluates the arguments passed in. 
+  b) Prior to C++11, the answer could be positive or negative
+     depending on the compiler.
+  c) Prior to C++11, the answer could be positive or negative 
+     depending on the compiler.
+  d) The small error resulting from floating point number
+     variable types will cause this statement to return false.
+  e) Using 0 as a divisor will crash the program as anything
+     divided by 0 is undefined.
