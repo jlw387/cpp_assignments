@@ -1,0 +1,20 @@
+5 a) The variable count will attempt to access an element of the
+     array that doesn't exist (array[5]) on the last iteration of
+     the loop. To fix this, I'd simplt change the line 'count <= 5'
+     to 'count < 5'.
+
+  b) Since the pointer 'ptr' is a constant integer pointer, you 
+     can't assign anything to it. Making the pointer non-constant
+     solves this problem.
+
+  c) For-each loops aren't able to work with pointers since the
+     length of the array isn't known. Adding a length parameter to
+     the function and using a normal for loop will solve this issue.
+
+  d) 'temp' is a fixed array, and therefore cannot use a length that
+     is not known at compile time. To fix this the array should be
+     dynamically allocated.
+
+  e) The pointer does not match the type of the variable to which it
+     is pointing. The type of the pointer should be changed to
+     'double*'.

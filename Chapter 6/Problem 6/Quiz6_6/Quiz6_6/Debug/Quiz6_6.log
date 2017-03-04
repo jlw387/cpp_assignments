@@ -1,0 +1,4 @@
+﻿  Quiz6_6.cpp
+c:\users\john\documents\visual studio 2015\projects\chapter 6\problem 6\quiz6_6\quiz6_6\quiz6_6.cpp(117): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Quiz6_6.vcxproj -> c:\users\john\documents\visual studio 2015\Projects\Chapter 6\Problem 6\Quiz6_6\Debug\Quiz6_6.exe
+  Quiz6_6.vcxproj -> c:\users\john\documents\visual studio 2015\Projects\Chapter 6\Problem 6\Quiz6_6\Debug\Quiz6_6.pdb (Full PDB)
