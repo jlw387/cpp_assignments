@@ -1,0 +1,5 @@
+﻿  Quiz6_7.cpp
+c:\users\john\documents\visual studio 2015\projects\chapter 6\problem 7\quiz6_7\quiz6_7\quiz6_7.cpp(118): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\john\documents\visual studio 2015\projects\chapter 6\problem 7\quiz6_7\quiz6_7\quiz6_7.cpp(249): warning C4715: 'playBlackJack': not all control paths return a value
+  Quiz6_7.vcxproj -> c:\users\john\documents\visual studio 2015\Projects\Chapter 6\Problem 7\Quiz6_7\Debug\Quiz6_7.exe
+  Quiz6_7.vcxproj -> c:\users\john\documents\visual studio 2015\Projects\Chapter 6\Problem 7\Quiz6_7\Debug\Quiz6_7.pdb (Full PDB)
