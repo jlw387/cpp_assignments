@@ -1,0 +1,18 @@
+2) a) The array will be destroyed, making the reference to it point-
+      less and also potentially dangerous.
+   b) The recursion has no termination point, so the function will
+      recurse infinitely (Is recurse a verb? Not really sure...).
+   c) These two functions only differ by return type, which is
+      unacceptable since the program will have no way to tell which
+      version should be called.
+   d) First of all, what even is that array size? Who needs 100
+      million elements of an array if they're not even gonna
+      initialize it? Second of all, the array isn't even being 
+      initialized, so it will literally just print 0 over and over
+      again. Third of all, the size of the array will probably cause 
+      a stack overflow. 
+   e) First, main usually doesn't have parameters, but more
+      importantly, the array passed in may not even have a second 
+      element, which would break the program. Then, if it does, 
+      int wouldn't match the type of the element being assigned to
+      it.
