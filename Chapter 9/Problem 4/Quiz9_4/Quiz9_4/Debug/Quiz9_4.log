@@ -1,0 +1,4 @@
+﻿  Quiz9_4.cpp
+c:\users\john\documents\visual studio 2015\projects\chapter 9\problem 4\quiz9_4\quiz9_4\quiz9_4.cpp(34): warning C4244: '=': conversion from 'double' to 'int8_t', possible loss of data
+  Quiz9_4.vcxproj -> C:\Users\John\documents\visual studio 2015\Projects\Chapter 9\Problem 4\Quiz9_4\Debug\Quiz9_4.exe
+  Quiz9_4.vcxproj -> C:\Users\John\documents\visual studio 2015\Projects\Chapter 9\Problem 4\Quiz9_4\Debug\Quiz9_4.pdb (Full PDB)
