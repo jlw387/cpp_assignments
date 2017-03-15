@@ -1,0 +1,21 @@
+﻿  Quiz10_2.cpp
+c:\users\john\documents\visual studio 2015\projects\chapter 10\problem 2\quiz10_2\quiz10_2\quiz10_2.cpp(21): warning C4244: 'argument': conversion from 'float' to 'DWORD', possible loss of data
+c:\users\john\documents\visual studio 2015\projects\chapter 10\problem 2\quiz10_2\quiz10_2\quiz10_2.cpp(87): warning C4018: '<': signed/unsigned mismatch
+c:\users\john\documents\visual studio 2015\projects\chapter 10\problem 2\quiz10_2\quiz10_2\quiz10_2.cpp(93): warning C4018: '<=': signed/unsigned mismatch
+c:\users\john\documents\visual studio 2015\projects\chapter 10\problem 2\quiz10_2\quiz10_2\quiz10_2.cpp(111): warning C4018: '<': signed/unsigned mismatch
+c:\users\john\documents\visual studio 2015\projects\chapter 10\problem 2\quiz10_2\quiz10_2\quiz10_2.cpp(118): warning C4244: 'argument': conversion from 'float' to 'DWORD', possible loss of data
+c:\users\john\documents\visual studio 2015\projects\chapter 10\problem 2\quiz10_2\quiz10_2\quiz10_2.cpp(127): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\john\documents\visual studio 2015\projects\chapter 10\problem 2\quiz10_2\quiz10_2\quiz10_2.cpp(128): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\john\documents\visual studio 2015\projects\chapter 10\problem 2\quiz10_2\quiz10_2\quiz10_2.cpp(129): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\john\documents\visual studio 2015\projects\chapter 10\problem 2\quiz10_2\quiz10_2\quiz10_2.cpp(130): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\john\documents\visual studio 2015\projects\chapter 10\problem 2\quiz10_2\quiz10_2\quiz10_2.cpp(131): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\john\documents\visual studio 2015\projects\chapter 10\problem 2\quiz10_2\quiz10_2\quiz10_2.cpp(133): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\john\documents\visual studio 2015\projects\chapter 10\problem 2\quiz10_2\quiz10_2\quiz10_2.cpp(134): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\john\documents\visual studio 2015\projects\chapter 10\problem 2\quiz10_2\quiz10_2\quiz10_2.cpp(135): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\john\documents\visual studio 2015\projects\chapter 10\problem 2\quiz10_2\quiz10_2\quiz10_2.cpp(136): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\john\documents\visual studio 2015\projects\chapter 10\problem 2\quiz10_2\quiz10_2\quiz10_2.cpp(137): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\john\documents\visual studio 2015\projects\chapter 10\problem 2\quiz10_2\quiz10_2\quiz10_2.cpp(138): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\john\documents\visual studio 2015\projects\chapter 10\problem 2\quiz10_2\quiz10_2\quiz10_2.cpp(139): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\john\documents\visual studio 2015\projects\chapter 10\problem 2\quiz10_2\quiz10_2\quiz10_2.cpp(140): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Quiz10_2.vcxproj -> c:\users\john\documents\visual studio 2015\Projects\Chapter 10\Problem 2\Quiz10_2\Debug\Quiz10_2.exe
+  Quiz10_2.vcxproj -> c:\users\john\documents\visual studio 2015\Projects\Chapter 10\Problem 2\Quiz10_2\Debug\Quiz10_2.pdb (Full PDB)

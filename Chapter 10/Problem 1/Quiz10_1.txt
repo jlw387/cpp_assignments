@@ -1,0 +1,5 @@
+1) a) Composition
+   b) Dependency
+   c) Aggregation
+   d) Association
+   e) Aggregation
